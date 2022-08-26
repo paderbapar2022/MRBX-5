@@ -21,4 +21,4 @@ git clone https://github.com/mrbx001/MRBX-5
 
 cd MRBX-5
 
-python MRBX_5.py
+python MRBX-5.py
